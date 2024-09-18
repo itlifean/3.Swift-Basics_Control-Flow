@@ -41,7 +41,7 @@ print("ტოლია თუ არა - \(equal)")
 print("\n----------დავალება #4 ------------")
 
 var myName: String = "na"
-var firstLetter: Character = "A"
+let firstLetter: Character = "A"
 
 print("\(firstLetter)\(myName)")
 
